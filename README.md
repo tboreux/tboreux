@@ -14,6 +14,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Local Reverse Proxy](https://tboreux.hashnode.dev/local-reverse-proxy)
+- [Local Reverse Proxy](https://dev.to/tboreux/local-reverse-proxy-26ig)
 <!-- BLOG-POST-LIST:END -->
 
 [The flying start of your blog with Pelican and Github Pages](https://dev.to/ttbb/the-flying-start-of-your-blog-with-pelican-and-github-pages-2go) <br>
