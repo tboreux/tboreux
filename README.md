@@ -13,6 +13,9 @@
 
 ## 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [The flying start of your blog with Pelican and Github Pages](https://dev.to/ttbb/the-flying-start-of-your-blog-with-pelican-and-github-pages-2go) <br>
 [How I made my CLI script to a website using Flask](https://dev.to/ttbb/how-i-made-my-cli-script-to-a-website-using-flask-1fbb) <br>
 [An LGBTQIA+ woman in tech](https://dev.to/ttbb/an-lgbtqia-woman-in-tech-350g) <br>
