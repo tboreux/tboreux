@@ -86,6 +86,14 @@
 ### Wakatime
 
 <!--START_SECTION:productive-box-in-readme-->
+```text
+I'm a night 🦉
+
+🌞 Morning     0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
+🌆 Daytime     1 commits  ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+🌃 Evening     0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
+🌙 Night      26 commits  ████████████████████▏  96.3%
+```
 <!--END_SECTION:productive-box-in-readme-->
 
 <!--START_SECTION:waka-->
