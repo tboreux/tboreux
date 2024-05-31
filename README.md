@@ -14,7 +14,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- - (30/05/2024) [“Local Reverse Proxy”](https://tboreux.hashnode.dev/local-reverse-proxy) ![Hashnode Logo](assets/hashnode-logo.png)<!-- BLOG-POST-LIST:END -->
+ - (30/05/2024) “[Local Reverse Proxy](https://tboreux.hashnode.dev/local-reverse-proxy)” ![Hashnode Logo](assets/hashnode-logo.png)<!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect With Me
 
