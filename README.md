@@ -17,11 +17,6 @@
 <a href="https://tboreux.hashnode.dev/local-reverse-proxy">(30/05/2024) “Local Reverse Proxy”</a> <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="1em" style="vertical-align:middle;display:inline-block;"><title>Hashnode</title><path fill="#2962FF" d="M22.351 8.019l-6.37-6.37a5.63 5.63 0 0 0-7.962 0l-6.37 6.37a5.63 5.63 0 0 0 0 7.962l6.37 6.37a5.63 5.63 0 0 0 7.962 0l6.37-6.37a5.63 5.63 0 0 0 0-7.962zM12 15.953a3.953 3.953 0 1 1 0-7.906 3.953 3.953 0 0 1 0 7.906z"/></svg>
 <!-- BLOG-POST-LIST:END -->
 
-[The flying start of your blog with Pelican and Github Pages](https://dev.to/ttbb/the-flying-start-of-your-blog-with-pelican-and-github-pages-2go) <br>
-[How I made my CLI script to a website using Flask](https://dev.to/ttbb/how-i-made-my-cli-script-to-a-website-using-flask-1fbb) <br>
-[An LGBTQIA+ woman in tech](https://dev.to/ttbb/an-lgbtqia-woman-in-tech-350g) <br>
-[LVM introduction](https://dev.to/ttbb/an-intro-to-lvm-5e87) <br>
-
 ## 🔗 Connect With Me
 
 <div align="center">
