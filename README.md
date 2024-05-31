@@ -77,17 +77,6 @@
 
 <div align="center">
 
-<!--START_SECTION:productive-box-in-readme-->
-```text
-I'm a night 🦉
-
-🌞 Morning     0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
-🌆 Daytime     1 commits  ▉░░░░░░░░░░░░░░░░░░░░   4.5%
-🌃 Evening     0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
-🌙 Night      21 commits  ████████████████████░  95.5%
-```
-<!--END_SECTION:productive-box-in-readme-->
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tboreux&theme=vue"> <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tboreux&theme=vue"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tboreux&theme=vue&utcOffset=2">
@@ -96,26 +85,21 @@ I'm a night 🦉
 
 ### Wakatime
 
+<table>
+<tr>
+<td>
+
+<!--START_SECTION:productive-box-in-readme-->
+<!--END_SECTION:productive-box-in-readme-->
+</td>
+<td>
+
 <!--START_SECTION:waka-->
-
-```python
-From: 15 May 2024 - To: 30 May 2024
-
-Total Time: 14 hrs 14 mins
-
-YAML                       7 hrs 27 mins   ■■■■■■■■■■■□□□□□□□□□□□□□□   44.37 %
-Markdown                   2 hrs 49 mins   ■■■■□□□□□□□□□□□□□□□□□□□□□   16.82 %
-Other                      2 hrs 34 mins   ■■■■□□□□□□□□□□□□□□□□□□□□□   15.35 %
-Bash                       2 hrs 19 mins   ■■■▨□□□□□□□□□□□□□□□□□□□□□   13.80 %
-HTML                       58 mins         ■▨□□□□□□□□□□□□□□□□□□□□□□□   05.79 %
-Smarty                     18 mins         ▨□□□□□□□□□□□□□□□□□□□□□□□□   01.84 %
-Text                       8 mins          □□□□□□□□□□□□□□□□□□□□□□□□□   00.82 %
-GitIgnore file             4 mins          □□□□□□□□□□□□□□□□□□□□□□□□□   00.42 %
-JSON                       4 mins          □□□□□□□□□□□□□□□□□□□□□□□□□   00.40 %
-Python                     3 mins          □□□□□□□□□□□□□□□□□□□□□□□□□   00.31 %
-```
-
 <!--END_SECTION:waka-->
+        
+</td>
+</tr>
+</table>
 
 ## ♾️ daily.dev
 
