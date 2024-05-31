@@ -1,0 +1,18 @@
+name: Update README
+on:
+  repository_dispatch:
+    types: [build-event]
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        uses: vnoctem/productive-box-in-readme@main
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TIMEZONE: Europe/Brussels
+          OWNER_REPO: tboreux
+          PATH: README.md

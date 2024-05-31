@@ -14,7 +14,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- - (30/05/2024) “[Local Reverse Proxy](https://tboreux.hashnode.dev/local-reverse-proxy)” ![Hashnode Logo](assets/hashnode-logo.png)<!-- BLOG-POST-LIST:END -->
+ - (30/05/2024) [“Local Reverse Proxy”](https://tboreux.hashnode.dev/local-reverse-proxy) ![Hashnode Logo](assets/hashnode-logo.png)<!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect With Me
 
@@ -72,6 +72,21 @@
 </details>
 
 ## 📊 Statistics
+
+### GitHub
+
+<div align="center">
+
+<!--START_SECTION:productive-box-in-readme-->
+<!--END_SECTION:productive-box-in-readme-->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tboreux&theme=vue"> <br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tboreux&theme=vue"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tboreux&theme=vue&utcOffset=2">
+
+</div>
+
+### Wakatime
 
 <!--START_SECTION:waka-->
 
