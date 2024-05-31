@@ -93,3 +93,7 @@ Python                     3 mins          □□□□□□□□□□□□�
 ```
 
 <!--END_SECTION:waka-->
+
+## ♾️ daily.dev
+
+![DevCard](devcard.png)
