@@ -1,9 +1,10 @@
-name: Update README
+name: Productive
+
 on:
-  repository_dispatch:
-    types: [build-event]
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
