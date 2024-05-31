@@ -78,6 +78,14 @@
 <div align="center">
 
 <!--START_SECTION:productive-box-in-readme-->
+```text
+I'm a night 🦉
+
+🌞 Morning     0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
+🌆 Daytime     1 commits  ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+🌃 Evening     0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
+🌙 Night      21 commits  ████████████████████░  95.5%
+```
 <!--END_SECTION:productive-box-in-readme-->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tboreux&theme=vue"> <br>
