@@ -99,7 +99,7 @@ I'm a night 🦉
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 March 2023 - To: 23 June 2024
+From: 15 March 2023 - To: 24 June 2024
 
 Total Time: 313 hrs 38 mins
 
